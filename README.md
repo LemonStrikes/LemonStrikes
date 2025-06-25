@@ -11,5 +11,5 @@
     🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
 </pre>
 <br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<img src="https://github.com/LemonStrikes/LemonStrikes/blob/main/assets/paimon.gif" height="40" />
 <br><br><br>
