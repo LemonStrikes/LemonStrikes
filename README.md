@@ -11,5 +11,5 @@
     🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
 </pre>
 <br><br>
-<img src="https://github.com/LemonStrikes/LemonStrikes/blob/main/assets/download%20(1)-VEED.gif" height="600" />
+<img src="https://github.com/LemonStrikes/LemonStrikes/blob/main/assets/sleeper.gif" height="600" />
 <br><br><br>
